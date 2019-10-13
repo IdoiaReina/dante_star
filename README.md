@@ -1,5 +1,5 @@
 # dante_star
-Epitech's "dante" from first year
+Epitech's "dante" from first year, made with Léo Couffinhal
 
 ## Description
 The dante is a labyrinth generator and solver made in C
